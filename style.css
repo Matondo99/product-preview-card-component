@@ -153,6 +153,8 @@ h1 {
 @media all and (min-width: 430px) {
   .card {
     flex-direction: row;
+    /* For presentation purposes */
+    height: 450px;
   }
 
   .card>* {
