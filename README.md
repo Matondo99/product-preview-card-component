@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]https://github.com/Matondo99/product-preview-card-component/)
+- Solution URL: [Solution URL](https://github.com/Matondo99/product-preview-card-component/)
 - Live Site URL: [product-preview-card-component](https://matondo99.github.io/product-preview-card-component/)
 
 ## My process
